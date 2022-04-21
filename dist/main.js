@@ -1,0 +1,1 @@
+(()=>{"use strict";var e;document.body.appendChild(((e=document.createElement("h1")).innerHTML="Hello world 6",e.classList.add("title"),e))})();
